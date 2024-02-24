@@ -1,0 +1,17 @@
+============Valores Problema de la Mochila============
+
+En el siguiente documento, se puede ingresar los valores para realizar 
+pruebas 
+
+Peso Máximo: 11
+
+Formato de llenado => 
+
+Artículo: Peso Valor
+
+Artículo: 1 1
+Artículo: 2 6
+Artículo: 5 18
+Artículo: 6 22
+Artículo: 7 28
+

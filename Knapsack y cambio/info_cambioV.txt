@@ -1,0 +1,9 @@
+============Valores Problema del cambio============
+
+En el siguiente documento, se puede ingresar los valores para realizar 
+pruebas 
+
+Denominaciones: 1 2 5 10
+
+Valor a encontrar: 15
+
